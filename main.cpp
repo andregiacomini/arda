@@ -3,7 +3,6 @@
 #include <iostream>
 
 #include "Character.h"
-#include "gtest/gtest.h"
 
 int main(){
 	std::unique_ptr<Character> god(new Character("Eru"));
