@@ -1,6 +1,7 @@
 #include <string>
 #include <stdio.h>
 #include <iostream>
+#include <memory>
 
 #include "Character.h"
 
